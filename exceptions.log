@@ -1,0 +1,19 @@
+exception 11:Nov:2024 16:07:30 Stock insuffisant
+exception 11:Nov:2024 16:07:30 Stock insuffisant
+exception 11:Nov:2024 16:31:59 Stock insuffisant
+exception 11:Nov:2024 16:31:59 Stock insuffisant
+exception 12:Nov:2024 17:17:32 Stock insuffisant
+exception 12:Nov:2024 17:17:32 Stock insuffisant
+exception 12:Nov:2024 17:32:20 Stock insuffisant, produit=(), stock=(),qteCommandée=100
+exception 12:Nov:2024 17:32:20 Stock insuffisant, produit=(), stock=(),qteCommandée=100
+exception 12:Nov:2024 17:36:51 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100
+exception 12:Nov:2024 17:36:51 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100
+exception 12:Nov:2024 17:36:57 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100
+exception 12:Nov:2024 17:36:57 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100
+exception 12:Nov:2024 17:40:41 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php, ligne 33
+exception 12:Nov:2024 17:40:41 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php, ligne 33
+exception 12:Nov:2024 17:41:45 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100 fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php,  ligne 33
+exception 12:Nov:2024 17:41:45 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100 fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php,  ligne 33
+exception 14:Nov:2024 06:02:54 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100 fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php,  ligne 33
+exception 14:Nov:2024 06:02:54 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100 fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php,  ligne 33
+exception 14:Nov:2024 06:03:09 Stock insuffisant, produit=bicb, stock=40, qtéCommandée=100 fichier E:\laragon\www\TPPHP20222023_SIO2\TP07exceptions\Panier.php,  ligne 33
